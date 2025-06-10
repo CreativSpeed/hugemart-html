@@ -2,6 +2,10 @@
     @apply h-21 bg-primary-blue;
 }
 
+.header__top {
+    @apply grid;
+}
+
 .logo {
 
 }
