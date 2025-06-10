@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "../node_modules/preline/variants.css";
+
+@import "./styles/config/font.css";
+@import "./styles/config/colors.css";
+
+@import "./styles/header.css" layer(components);
+@import "./styles/footer.css" layer(components);
+@import "./styles/hero.css" layer(components);
+
+@import "./styles/plugins/text-flip.css" layer(components);

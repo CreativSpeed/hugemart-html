@@ -1,0 +1,20 @@
+@theme {
+    --color-amber-*: initial;
+    --color-lime-*: initial;
+    --color-emerald-*: initial;
+    --color-teal-*: initial;
+    --color-cyan-*: initial;
+    --color-sky-*: initial;
+    --color-indigo-*: initial;
+    --color-violet-*: initial;
+    --color-purple-*: initial;
+    --color-fuchsia-*: initial;
+    --color-pink-*: initial;
+    --color-rose-*: initial;
+    --color-zinc-*: initial;
+    --color-natural-*: initial;
+    --color-stone-*: initial;
+
+    --color-primary-blue: #132141;
+    --color-primary-orange: #fa9d25;
+}

@@ -1,0 +1,19 @@
+.text-slider {
+    position: relative;
+    height: 30px;
+    overflow: hidden;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #007bff;
+}
+.text-slider-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.text-slider-inner span {
+    display: block;
+    height: 25px;
+}
